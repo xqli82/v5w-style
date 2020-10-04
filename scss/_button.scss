@@ -1,0 +1,16 @@
+.btn{
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    margin: 0.5rem 0.5rem;
+    padding: 0.2rem 1rem;
+    &:hover{
+        opacity: 0.5;
+    }
+}
+.btn-primary{
+    background: $primary-color;
+}
+.btn-warning{
+    background: $warning-color;
+}
