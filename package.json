@@ -1,13 +1,14 @@
 {
   "name": "v5w-style",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "style.css complie base on scss",
   "main": "css/style.css",
   "directories": {
     "test": "css lib created by v5w.com"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git":"git add . && git commit -m 'more' && git push -u origin"
   },
   "repository": {
     "type": "git",
