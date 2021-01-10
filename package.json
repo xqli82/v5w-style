@@ -4,7 +4,7 @@
   "description": "style.css complie base on scss",
   "main": "css/style.css",
   "directories": {
-    "test": "test"
+    "test": "css lib created by v5w.com"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
