@@ -1,4 +1,4 @@
-@import '_config';
+
 .v5-color-bg-primary{
     background: $bg-color-primary;
 }
@@ -16,8 +16,8 @@
     color:$color-primary;
 }
 .v5-color-warning{
-    font:$color-warning;
+    color:$color-warning;
 }
 .v5-color-danger{
-    font:$color-danger;
+    color:$color-danger;
 }
