@@ -1,0 +1,17 @@
+@for $i from 1 to 10{
+    .v5-margin-t#{$i*2}{
+        margin-top: ($i*2 + px);
+    }
+    .v5-margin-b#{$i*2}{
+        margin-bottom: ($i*2 + px);
+    }
+    .v5-margin-l#{$i*2}{
+        margin-left: ($i*2 + px);
+    }
+    .v5-margin-r#{$i*2}{
+        margin-right: ($i*2 + px);
+    }
+}
+.v5-margin-auto{
+    margin: 0 auto;
+}

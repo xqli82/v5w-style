@@ -1,0 +1,9 @@
+.v5-border-round{
+    border-radius: 50%;
+}
+
+@for $i from 1 to 10 {
+    .v5-border-r#{$i*2}{
+        border-radius: ($i*2 + px);
+    }
+}

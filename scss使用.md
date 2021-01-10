@@ -29,3 +29,8 @@ sass --watch 路径 编译后的路径
 $color-blue:#0000ff
 //以$开头
 ```
+# 循环
+
+@for循环：
++ 方式1：@for $i from {开始值} through {结束值}
++ 方式2：@for $i from {开始值} to {结束值}
