@@ -1,0 +1,41 @@
+
+.v5-float{
+    display: float;
+}
+.v5-float-left{
+    float: left;
+}
+.v5-float-right{
+    float:right
+}
+
+.v5-block{
+    display: block;
+}
+
+.v5-inline{
+    display: inline;
+}
+
+.v5-inline-block{
+    display: inline-block;
+}
+
+.v5-flex{
+    display: flex;
+}
+.v5-flex-dir{
+    flex-direction: column;
+}
+.v5-flex-h-center{
+    justify-content: center;
+}
+.v5-flex-h-space-around{
+    justify-content: space-around;
+}
+.v5-flex-h-space-between{
+    justify-content: space-between;
+}
+.v5-flex-v-center{
+    align-items: center;
+}
